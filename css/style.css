@@ -1,0 +1,22 @@
+body{
+	background-color:#75A9F9;
+}
+.wrap{
+	background-color:white;
+	border-radius:5px;
+	padding:20px;
+}
+.navbar{
+	background-color:white;
+	.navbar-default{
+		background-color:white;
+	}
+	.container-fluid{
+		background-color:white;
+	}
+}
+.login{
+	background-color:white;
+	width:50%;
+	border-radius:5px;
+}
